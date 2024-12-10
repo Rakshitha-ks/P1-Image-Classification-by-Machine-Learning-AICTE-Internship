@@ -24,7 +24,7 @@ Implementation of ML model for image classification is a Streamlit app that inte
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Rakshitha-ks/P1-Image-Classification-by-Machine-Learning-AICTE-Internship
+   git clone https://github.com/Rakshitha-ks/P1-Image-Classification-using-Machine-Learning-AICTE-Internship
    cd Implementation-of-ML-model-for-image-classification
    ```
 2. **Create and activate a virtual environment**:
